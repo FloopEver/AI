@@ -1,0 +1,85 @@
+1
+You play as Black Player | Win: 18 | Lose: 2 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+2
+You play as Black Player | Win: 19 | Lose: 1 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+3
+You play as Black Player | Win: 15 | Lose: 5 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+4
+You play as Black Player | Win: 18 | Lose: 2 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+5
+You play as Black Player | Win: 18 | Lose: 2 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+6
+You play as Black Player | Win: 18 | Lose: 2 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+7
+You play as Black Player | Win: 20 | Lose: 0 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+8
+You play as Black Player | Win: 20 | Lose: 0 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+9
+You play as Black Player | Win: 18 | Lose: 2 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+10
+You play as Black Player | Win: 20 | Lose: 0 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+11
+You play as Black Player | Win: 19 | Lose: 1 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+12
+You play as Black Player | Win: 19 | Lose: 1 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+13
+You play as Black Player | Win: 19 | Lose: 1 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+14
+You play as Black Player | Win: 17 | Lose: 3 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+15
+You play as Black Player | Win: 19 | Lose: 1 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+16
+You play as Black Player | Win: 18 | Lose: 2 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+17
+You play as Black Player | Win: 17 | Lose: 3 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+18
+You play as Black Player | Win: 19 | Lose: 1 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+19
+You play as Black Player | Win: 17 | Lose: 3 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+20
+You play as Black Player | Win: 19 | Lose: 1 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+21
+You play as Black Player | Win: 16 | Lose: 4 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+22
+You play as Black Player | Win: 18 | Lose: 2 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+23
+You play as Black Player | Win: 20 | Lose: 0 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+24
+You play as Black Player | Win: 20 | Lose: 0 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+25
+You play as Black Player | Win: 19 | Lose: 1 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+26
+You play as Black Player | Win: 20 | Lose: 0 | Tie: 0
+You play as White Player | Win: 18 | Lose: 2 | Tie: 0
+27
+You play as Black Player | Win: 16 | Lose: 4 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+28
+You play as Black Player | Win: 19 | Lose: 1 | Tie: 0
+You play as White Player | Win: 20 | Lose: 0 | Tie: 0
+29
